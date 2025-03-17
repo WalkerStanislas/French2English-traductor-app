@@ -1,7 +1,3 @@
-# Spécifier la version de pip (si supporté)
-pip==25.0.1  
-
-# Bibliothèques principales
 streamlit
 OpenNMT-py 
 torch==2.2.0  
