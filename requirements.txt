@@ -4,5 +4,5 @@ pip==25.0.1
 # Bibliothèques principales
 OpenNMT-py==3.5.1  
 torch==2.2.0  
-torchvision==0.16.0  
+torchvision==0.17.0  
 torchaudio==2.1.0  
