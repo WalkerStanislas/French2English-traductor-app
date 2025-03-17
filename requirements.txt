@@ -1,2 +1,3 @@
 streamlit
 OpenNMT-py==3.5.1
+pyonmttok
