@@ -1,5 +1,2 @@
 streamlit
 OpenNMT-py 
-torch
-torchvision
-torchaudio
