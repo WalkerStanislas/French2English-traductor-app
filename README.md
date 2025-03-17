@@ -23,3 +23,4 @@ This is a streamlit application that load our translator model tained with Europ
    streamlit run app.py
 5. **Model training**
    If you want to check the model training process, [visit my Kaggle account: ](https://www.kaggle.com/code/walkerstan/french2english-notebook).
+6. **You can also test the translator app directly online** [French2English Translator](https://french2english-traductor-app-3dvgdhrkevboxpsnaazeyu.streamlit.app/)
