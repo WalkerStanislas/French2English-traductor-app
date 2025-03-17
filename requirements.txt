@@ -2,8 +2,7 @@
 pip==25.0.1  
 
 # Bibliothèques principales
-OpenNMT-py==3.5.1  
+OpenNMT-py 
 torch==2.2.0  
 torchvision==0.17.0  
 torchaudio==2.2.0
-pyonmttok==1.37 
