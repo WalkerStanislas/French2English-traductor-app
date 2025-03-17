@@ -2,6 +2,7 @@
 pip==25.0.1  
 
 # Bibliothèques principales
+streamlit
 OpenNMT-py 
 torch==2.2.0  
 torchvision==0.17.0  
