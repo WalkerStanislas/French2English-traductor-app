@@ -1,7 +1,5 @@
-streamlit
-torch==2.2.0
-torchvision==0.17.0
-torchaudio==2.2.0
-OpenNMT-py==3.5.1
-
-
+torch==2.1.0
+torchvision==0.16.0
+torchaudio==2.1.0
+OpenNMT-py==3.4.3
+pyonmttok==1.37.0
