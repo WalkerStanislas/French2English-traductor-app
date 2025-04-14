@@ -7,7 +7,7 @@ The model is hosted on [Hugging Face](https://huggingface.co/IngWalker/french2en
 
 ## 🚀 Demo
 
-👉 [Launch the Streamlit App](https://french2english.streamlit.app/) 
+👉 [Launch the Streamlit App](https://french2english-traductor-app-n5hdcljskuxvsu8btby3mm.streamlit.app/) 
 
 ---
 
