@@ -1,11 +1,17 @@
 import streamlit as st
 import subprocess
 import os
+from huggingface_hub import hf_hub_download
 
 
 st.set_page_config(page_title="French2English", page_icon="🌍", layout="centered")
 
-model_path = "fr-en-model_step_100000.pt"
+#model_path = "fr-en-model_step_100000.pt"
+# Téléchargement du modèle depuis HuggingFace
+model_path = hf_hub_download(
+    repo_id="IngWalker/french2english-translator",
+    filename="fr-en-model_step_100000.pt"
+)
 
 def translate_text(text):
     try:
